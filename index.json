@@ -1,0 +1,110 @@
+{
+"data": [
+{
+"id": 2,
+"documentId": "pu3g78r53zqrm9e7io0eok81",
+"createdAt": "2025-08-26T19:46:22.128Z",
+"updatedAt": "2025-08-26T19:46:22.128Z",
+"publishedAt": "2025-08-26T19:50:29.619Z",
+"title": "shoes",
+"price": 1500,
+"product_image": {
+"id": 1,
+"documentId": "gihvwcjlbeijskfbo87tqr0a",
+"name": "shoeOne.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 612,
+"height": 383,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_shoeOne.jpg",
+"hash": "thumbnail_shoe_One_0795ac301e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 153,
+"size": 4.66,
+"sizeInBytes": 4656,
+"url": "/uploads/thumbnail_shoe_One_0795ac301e.jpg"
+},
+"small": {
+"name": "small_shoeOne.jpg",
+"hash": "small_shoe_One_0795ac301e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 313,
+"size": 16.44,
+"sizeInBytes": 16443,
+"url": "/uploads/small_shoe_One_0795ac301e.jpg"
+}
+},
+"hash": "shoe_One_0795ac301e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 24.16,
+"url": "/uploads/shoe_One_0795ac301e.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2025-08-26T19:46:05.614Z",
+"updatedAt": "2025-08-26T19:46:05.614Z",
+"publishedAt": "2025-08-26T19:46:05.614Z"
+}
+},
+{
+"id": 4,
+"documentId": "e54e3di5iltqeqwc982g8g80",
+"createdAt": "2025-08-26T19:55:10.943Z",
+"updatedAt": "2025-08-26T19:55:10.943Z",
+"publishedAt": "2025-08-26T19:55:10.950Z",
+"title": "sock",
+"price": 100,
+"product_image": {
+"id": 2,
+"documentId": "th5041cc70z5frplm67aufv4",
+"name": "sock.png",
+"alternativeText": null,
+"caption": null,
+"width": 360,
+"height": 360,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sock.png",
+"hash": "thumbnail_sock_79deb6ff6f",
+"ext": ".png",
+"mime": "image/png",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 17.86,
+"sizeInBytes": 17865,
+"url": "/uploads/thumbnail_sock_79deb6ff6f.png"
+}
+},
+"hash": "sock_79deb6ff6f",
+"ext": ".png",
+"mime": "image/png",
+"size": 22.09,
+"url": "/uploads/sock_79deb6ff6f.png",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2025-08-26T19:55:05.061Z",
+"updatedAt": "2025-08-26T19:55:05.061Z",
+"publishedAt": "2025-08-26T19:55:05.061Z"
+}
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 25,
+"pageCount": 1,
+"total": 2
+}
+}
+}
